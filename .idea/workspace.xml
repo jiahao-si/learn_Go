@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32ecfc12-0aea-409b-9258-6418edaa3ab5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greetings/greetings_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-service-gin/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greetings/greetings.go" beforeDir="false" afterPath="$PROJECT_DIR$/greetings/greetings.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
