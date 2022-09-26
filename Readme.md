@@ -1,0 +1,4 @@
+- go run 
+- go build
+- go test
+- ./hello
